@@ -1,2 +1,2 @@
 # Spotify-Clone
-spotify clone for music playing
+spotify clone for listening songs and podcast.
